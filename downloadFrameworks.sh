@@ -1,4 +1,4 @@
-# Clean previous downloads
+downloadFrameworks.sh
 rm -rf Resources
 
 mkdir Resources
